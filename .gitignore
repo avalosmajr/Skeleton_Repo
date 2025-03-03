@@ -49,4 +49,7 @@ po/*~
 rsconnect/
 
 # Personal ignore
-UnknownProj.R
+unknownproj.r
+
+
+
